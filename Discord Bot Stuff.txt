@@ -1,0 +1,4 @@
+Bot stuff
+Client ID: 778305271063773185
+Public Key: cc8f8bdd3c760c3750aff14ed297e2df36ab056bc1f404d6e71f413a553e79a8
+Client Secret: 0ZyLF618HMB0YHrQiGA4CqmC0KeX4WiN
