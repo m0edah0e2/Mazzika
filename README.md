@@ -1,0 +1,2 @@
+# Mazzika
+Discord Music Bot
